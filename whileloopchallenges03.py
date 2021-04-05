@@ -1,3 +1,5 @@
+#whileloopchallenges03
+
 firstnum = int(input("Enter a number: "))
 
 total = firstnum
