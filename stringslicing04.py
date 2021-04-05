@@ -1,3 +1,5 @@
+#stringslicing04
+
 rhyme = str(input("Enter the first line of a nursery rhyme: "))
 
 print("This has," ,len(rhyme), "letters in it")
