@@ -1,3 +1,5 @@
+#whileloopchallenges06
+
 endloop = "n"
 
 num = int(input("Enter a number: "))
