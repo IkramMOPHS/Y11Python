@@ -1,3 +1,5 @@
+#stringslicing08
+
 loop = 0
 
 loopcounter = "y"
