@@ -1,3 +1,5 @@
+#Selection07
+
 num = int(input("Please enter a number: "))
 
 if num < 10:
