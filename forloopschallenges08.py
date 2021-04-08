@@ -1,3 +1,5 @@
+#forloopschallenges08
+
 direction = str(input("Which direction do you want to go? u/d: ")).lower()
 
 if direction == "u":
