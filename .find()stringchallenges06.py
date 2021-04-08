@@ -1,3 +1,5 @@
+#.find()stringchallenges06
+
 loop = "y"
 
 while loop == "y":
