@@ -1,4 +1,4 @@
-#.find()stringchallenges06
+#.find()stringchallenges04
 
 num = "123456789"
 target1 = "3"
