@@ -1,3 +1,5 @@
+#.find()stringchallenges05
+
 number = str(input("Enter a phone number: "))
 target = "0"
 
