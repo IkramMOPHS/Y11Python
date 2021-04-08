@@ -1,3 +1,5 @@
+#forloopschallenges02
+
 name = str(input("Enter your name: "))
 num = int(input("Enter a number: "))
 
