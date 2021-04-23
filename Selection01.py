@@ -1,3 +1,4 @@
+#Ikram Munye 
 #Selection01
 
 num1 = int(input("Enter a number: "))
