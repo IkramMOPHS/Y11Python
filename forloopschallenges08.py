@@ -1,3 +1,4 @@
+#Ikram Munye 
 #forloopschallenges08
 
 direction = str(input("Which direction do you want to go? u/d: ")).lower()
