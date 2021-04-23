@@ -1,3 +1,4 @@
+#Ikram Munye 
 #whileloopchallenges05
 
 compnum = 50
