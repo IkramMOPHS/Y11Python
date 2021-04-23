@@ -1,3 +1,4 @@
+#Ikram Munye 
 #forloopschallenges06
 
 num = int(input("Enter a number below 50: "))
