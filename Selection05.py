@@ -1,3 +1,4 @@
+#Ikram Munye 
 #Selection05
 
 rain = str(input("Is it raining? ")).lower()
