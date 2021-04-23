@@ -1,3 +1,4 @@
+#Ikram Munye 
 #stringslicing06
 
 name = str(input("Enter your first name: ")).lower()
