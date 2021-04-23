@@ -1,3 +1,4 @@
+#Ikram Munye 
 #stringslicing02
 
 name = str(input("Enter your first name: "))
